@@ -1,7 +1,7 @@
 # Nicolas Bopp
 
 **Medical Informatics (MSc) · Scientific Assistant at FHNW · Full-Stack Developer**\
-Basel, Switzerland
+🇨🇭 Basel, Switzerland
 
 I build software at the intersection of medicine, data and engineering: from full-stack
 web applications to machine-learning pipelines for medical imaging. I care about
@@ -29,6 +29,19 @@ and a React/Python annotation platform for pelvic floor MRI.
 ---
 
 ## Projects
+
+### [Pics3D-Viewer: 3D Visualisation of Pelvic Anatomy](docs/Bopp_2024_BSc_Thesis_Pics3D-Viewer.pdf)
+
+*BSc thesis, FHNW School of Life Sciences, 2024 · in collaboration with University Hospital Zurich (USZ)*
+
+Web-based 3D viewer for data from the Pelvic Inclination Correction System (PICS), used to
+interpret and quantify pelvic MRI in the context of pelvic floor disorders.
+
+- Built with React, TypeScript and React Three Fiber, using iterative prototyping and usability testing
+- Interactive 3D model, search and filter, measurement tools and side-by-side comparison of datasets
+- Evaluation with end users showed high usability and practical suitability for research
+
+**Thesis (PDF, German):** [GPS für das Becken: 3D Visualisierung von anatomischen Strukturen](docs/Bopp_2024_BSc_Thesis_Pics3D-Viewer.pdf)
 
 ### [NodeRegrets](https://noderegrets.dev)
 
