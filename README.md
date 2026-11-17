@@ -7,7 +7,7 @@ I build software at the intersection of medicine, data and engineering: from ful
 web applications to machine-learning pipelines for medical imaging. I care about
 research software that is reliable, reproducible and actually used.
 
-**Current focus:** Master's thesis at USZ Zürich, building nnU-Net segmentation pipelines
+**Current focus:** Master's thesis at USZ Zürich, building deep-learning segmentation pipelines
 and a React/Python annotation platform for pelvic floor MRI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolas--bopp--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-bopp-dev/)
@@ -21,7 +21,7 @@ and a React/Python annotation platform for pelvic floor MRI.
 | **Languages** | Python · TypeScript · JavaScript · Java · SQL |
 | **Frontend** | React · React Native · Redux · Tailwind CSS |
 | **Backend** | Node.js · Express · Flask |
-| **Machine Learning & Data** | PyTorch · TensorFlow · nnU-Net · pandas |
+| **Machine Learning & Data** | PyTorch · TensorFlow · pandas |
 | **Databases** | PostgreSQL · MySQL · MongoDB |
 | **Infrastructure & DevOps** | Docker · Kubernetes · Nginx · Linux |
 | **Tooling** | Git · GitHub · GitLab · VS Code · Postman |
