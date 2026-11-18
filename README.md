@@ -56,6 +56,17 @@ what changed since your version.
 
 **Website:** [noderegrets.dev](https://noderegrets.dev)
 
+### [intelligent-scissors](https://github.com/nicolasbopp/intelligent-scissors)
+
+Live-wire segmentation (Intelligent Scissors, the "magnetic lasso") for the browser: click a few
+points around a structure and the outline between them follows its edges.
+
+I wrote the first version for the MRI annotation tool in my master's thesis and split it out
+because I couldn't find a small standalone implementation. It has no dependencies and works
+with 16-bit medical images.
+
+**Demo:** [nicolasbopp.github.io/intelligent-scissors](https://nicolasbopp.github.io/intelligent-scissors/)
+
 ---
 
 ## Publications
